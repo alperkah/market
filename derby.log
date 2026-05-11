@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 11 11:07:38 TRT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-019e-1613-d24e-000007983a48 
+on database directory /Users/alperkahraman/eclipse-workspace/Market/market with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1e2e2406 
+Loaded from file:/Users/alperkahraman/eclipse-workspace/Market/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.8+9-LTS
+user.dir=/Users/alperkahraman/eclipse-workspace/Market
+os.name=Mac OS X
+os.arch=x86_64
+os.version=26.4.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
